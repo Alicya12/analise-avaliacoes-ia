@@ -28,9 +28,3 @@ O modelo foi treinado utilizando uma base histórica massiva de avaliações (di
 
 ---
 
-## 🚀 Como Executar o Projeto no GitHub Codespaces
-
-1. Abra o repositório no ambiente virtual do Codespaces.
-2. Instale as dependências listadas no projeto utilizando o terminal:
-   ```bash
-   pip install -r requirements.txt
